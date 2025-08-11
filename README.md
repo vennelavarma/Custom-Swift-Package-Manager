@@ -5,7 +5,13 @@ Installation
 
 Clone the Repository:
 
-git clone https://github.com/vennelavarma/Custom-Swift-Package-Manager
+git clone https://github.com/vennelavarma/Custom-Swift-Package-Manager.git
+
+Dependency
+
+URL: https://github.com/vennelavarma/Custom-Swift-Package-Manager.git
+
+Set Dependency Rule to Exact version and version to 2.0.2 while adding to your project
 
 
 
